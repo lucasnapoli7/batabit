@@ -4,8 +4,10 @@ Se aplicó Mobile First sumado al uso de métricas para validar accesibilidad, p
 
 <img src="./assets/img/Batatabit-stats.png" alt="Estadisticas de la página" width="300px"></br>
 
-Proyecto en [**Figma**](https://www.figma.com/file/sMmlQaZldfDcLERYYWe6h4/Bata-Bit?node-id=44%3A593)
+[**Prototipo**] en Figma del proyecto(https://www.figma.com/file/sMmlQaZldfDcLERYYWe6h4/Bata-Bit?node-id=44%3A593)
 
 **[Presentación](https://platzi.com/cursos/mobile-first/)** del curso.
 
 **[Certificado](https://platzi.com/p/lucas-napoli/curso/2030-course/diploma/detalle/)** del curso.
+
+**[Demo](https://lucasnapoli7.github.io/batatabit/)** del proyecto.

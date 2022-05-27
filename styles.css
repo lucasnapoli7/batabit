@@ -480,6 +480,10 @@ main{
     display: flex;
     align-items: center;
 }
+.plan-card--ca:hover{
+    background-color: rgba(0, 0, 0, 0.06);
+    cursor: pointer;
+}
 .plan-card--ca span{
     display: inline-block;
     width: 24px;
