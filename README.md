@@ -1,6 +1,7 @@
 # Batatabit
 Proyecto realizar a través de Curso de Responsive Design: Maquetación Mobile First de Platzi.
-Se aplicó Mobile First sumado al uso de métricas para validar accesibilidad, performance y buenas prácticas de la página.
+Se aplicó Mobile First sumado al uso de métricas para validar accesibilidad, performance y buenas prácticas de la página.</br>
+
 <img src="./assets/img/Batatabit-stats.png" alt="Estadisticas de la página" width="300px"></br>
 
 Proyecto en [**Figma**](https://www.figma.com/file/sMmlQaZldfDcLERYYWe6h4/Bata-Bit?node-id=44%3A593)
